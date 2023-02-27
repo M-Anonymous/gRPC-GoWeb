@@ -1,0 +1,5 @@
+server:
+  name: api-gateway
+  addr: 127.0.0.1:6399
+etcd:
+  addr: 192.168.33.132:2379

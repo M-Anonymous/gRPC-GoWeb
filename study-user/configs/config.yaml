@@ -1,0 +1,5 @@
+server:
+  name: study-user-service
+  addr: 127.0.0.1:2357
+etcd:
+  addr: 192.168.33.132:2379
